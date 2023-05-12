@@ -51,12 +51,14 @@ button{
 }
 p{
     position:relative;
-    text-align:center;
     font-size:40px;
     z-index:1;
     font-weight:bolder;
-    color:black;
+    color:yellow;
     top:200px;
+    background-color: rgb(214, 8, 8);
+    width:300px;
+    left:40%
 }
 
 .res{
@@ -68,6 +70,4 @@ p{
     color:pink;
     background-color:rgb(7, 48, 3)
 }
-texxtt{
-    color:black
-}
+
